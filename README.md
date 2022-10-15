@@ -12,9 +12,9 @@ Copy the URL into your web browser of preference and the tool will be displayed.
 
 Users are given autonomy in selecting allowance decay rates (up to 30%) for a given sector within a selected country to visualize historical emissions (2005 - 2021) and forecasted emisisons (2022 - 2030).
 
-****Web Tool Methodology:****
+****Web Tool Methodology & Inspiration:****
 
-For a fixed sector and country, emissions are regressed against total allowances allocated. Using the decay rate the user supplies in addition with the regression coefficients computed, emissions are forecasted up to 2030.
+For a fixed sector and country, emissions are regressed against total allowances allocated. Emissions are forecasted up to 2030 through the user-inputed decay rate and the regression coefficients computed. The creation of this web tool was inspired by the flexibility required for the EU to reach its ambitious 55% emissions reduction target (relative to 1990) by 2030. The success of the EU ETS hinges on the creativity in allowance allocations - the trade-and-share market must be adapative and prioritize sectors disproportionately prone to carbon leakage, while simultaneously considering implications for the rate of allowance volume reductions per year on the market. Our tool offers a nuanced perspective of country sectoral contributions in emissions with robust flexibility in allowance decay rates, versatile for a range of users with varying goals and interests.
 
 ## Abstract:
 
