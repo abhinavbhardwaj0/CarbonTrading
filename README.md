@@ -10,7 +10,11 @@ This will output "dash is running on..." followed by a URL.
 
 Copy the URL into your web browser of preference and the tool will be displayed.
 
-Users are given autonomy in selecting allowance decay rates (up to 30%) for a given sector within a selected country to visualize emissions.
+Users are given autonomy in selecting allowance decay rates (up to 30%) for a given sector within a selected country to visualize historical emissions (2005 - 2021) and forecasted emisisons (2022 - 2030).
+
+_Web Tool Creation:_
+
+For a fixed sector and country, emissions are regressed against total allowances allocated. Using the decay rate the user supplies in addition with the regression coefficients computed, emissions are forecasted up to 2030.
 
 ## Abstract:
 
