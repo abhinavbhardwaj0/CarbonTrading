@@ -63,8 +63,8 @@ def update_graph(selected_dropdown_value1, selected_dropdown_value2, value3): #1
         hover_data = ['year', 'x', 'y'],
         title= country.upper() +': Annual Emissions<br><sup>Sector: ' + sector.upper() + '</sup>',
         labels={
-                     "x": "Total Allocated Allowances (tons of CO2)",
-                     "y": "Emissions (tons of CO2)",
+                     "x": "Total Allocated Allowances (tonnes of CO2)",
+                     "y": "Emissions (tonnes of CO2)",
                      "DataType": " "
                  }
     )
