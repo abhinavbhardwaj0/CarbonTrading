@@ -1,13 +1,14 @@
 # Carbon Trading: A Cross-Sectoral Analysis of Allowance Pathways under the EU ETS
 
-## Instructions for using app:
+## Web Tool Instructions:
 
 Within the folder, run the following command:
 
 python app.py
 
-and copy the outputted URL into any browser. The tool will display.
-The user can select a country, a sector, and tune the allowance decay rate to project and visualize emissions.
+Copy the outputted URL into web browser of preference. The tool will be displayed.
+
+Users are given autonomy in selecting allowance decay rates (upwards of 30%) for a given sector within a selected country to visualize emissions.
 
 ## Abstract:
 
