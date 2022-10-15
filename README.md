@@ -79,16 +79,29 @@ Three factors determine the level of free allocation for a given installation: b
 ## Sources:
 
 •	https://www.eea.europa.eu/publications/the-eu-emissions-trading-system-2/the-eu-emissions-trading-system
+
 •	https://ec.europa.eu/commission/presscorner/detail/en/qanda_21_3542
+
 •	https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/free-allocation/allocation-industrial-installations_en
+
 •	https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/free-allocation/carbon-leakage_en
+
 •	https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/free-allocation_en
+
 •	https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/free-allocation/allocation-aviation_en
+
 •	https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/free-allocation/free-allocation-modernisation-energy-sector_en
+
 •	https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/market-stability-reserve_en
+
 •	https://climate.ec.europa.eu/eu-action/climate-strategies-targets/2030-climate-energy-framework_en
+
 •	https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/emissions-cap-and-allowances_en
+
 •	https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/free-allocation_en#free-allocation-decreases-each-year
+
 •	https://climate.ec.europa.eu/news-your-voice/news/further-information-start-phase-4-eu-ets-2021-emission-allowances-be-issued-aircraft-operators-and-2020-12-11_en
+
 •	https://redshawadvisors.com/learn-carbon/eu-ets/market-stability-reserve/#:~:text=The%20Market%20Stability%20Reserve%20(MSR,green%20technology%20and%20energy%20efficiency
+
 •	https://euets.info/static/download/Description_EUTL_database.pdf
