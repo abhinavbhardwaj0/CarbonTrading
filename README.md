@@ -1,4 +1,4 @@
-# Carbon Trading: A Cross-Sectoral Analysis of Allowance Pathways under the EU ETS
+# Carbon Trading: A Cross-Sectoral Analysis of Allowance Pathways Under the EU ETS
 
 ## Web Tool Instructions:
 
