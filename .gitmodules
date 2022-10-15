@@ -1,0 +1,3 @@
+[submodule "CarbonTrading"]
+	path = CarbonTrading
+	url = https://github.com/datadrivenenvirolab/cop27_datathon

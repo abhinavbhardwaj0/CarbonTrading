@@ -65,7 +65,6 @@ for key,val in emissions_dict.items():
     boolean = False
     for act in activity_dict.keys():
         if key == act:
-            print(act)
             count += 1
             bool_dict[act] = True
             sectors += [act]
