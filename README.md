@@ -1,6 +1,6 @@
-# Carbon-Trading-Global-Stocktake-Datathon-2022
+# Carbon Trading: A Cross-Sectoral Analysis of Allowance Pathways under the EU ETS
 
-Instructions for using app:
+## Instructions for using app:
 
 Within the folder, run the following command:
 
@@ -9,9 +9,6 @@ python app.py
 and copy the outputted URL into any browser. The tool will display.
 The user can select a country, a sector, and tune the allowance decay rate to project and visualize emissions.
 
-
-
-# Carbon Trading: A Cross-Sectoral Analysis of Allowance Pathways under the EU ETS
 ## Abstract:
 
   This project explores historical trends and future forecasts of Carbon Dioxide (CO 2 ) emissions
