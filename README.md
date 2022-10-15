@@ -12,7 +12,8 @@ The user can select a country, a sector, and tune the allowance decay rate to pr
 
 
 ## Carbon Trading: A Cross-Sectoral Analysis of Allowance Pathways under the EU ETS
-Abstract:
+# Abstract:
+
 This project explores historical trends and future forecasts of Carbon Dioxide (CO 2 ) emissions
 under the EU Emissions Trading System (ETS). This project’s curiosity stems from questioning
 the reality of the EU in reaching its newly updated emissions reduction target of 55% (relative to
@@ -52,7 +53,7 @@ with an interactive dashboard of annual totals in CO 2 emission values (measured
 tonnes) composed of EU Member States and EEA-EFTA state contributions up through phase 3
 of the EU ETS (2005 – 2020).
 
-Introduction &amp; Background:
+# Introduction &amp; Background:
 EU ETS:
 The EU Emissions Trading System (ETS) is a “cap-and-trade” policy that allocates countries’
 greenhouse gas (GHG) outputs by setting a threshold (cap) on the maximum amount of
@@ -83,7 +84,7 @@ pricing, which will catalyze a decline in overall emissions. A sector-specific a
 taken to reach the EU 2030 emissions target. Free allowances in the aviation sector will be
 reduced gradually, and additional sectors will be considered in the trading market (starting with
 the maritime transport sector).
-ETS Sectoral Emissions:
+# ETS Sectoral Emissions:
 The creation of a separate emissions trading system will account for reductions in targets not
 included within the EU ETS – emissions stemming from fuels associated with road transport and
 buildings, for instance. This newfound trading system places emphasis on fuel-based sector
@@ -135,7 +136,7 @@ beyond this timeframe. The aviation sector (airlines) currently receives the lar
 free allowances. The surge in free allowances targeted at EU energy-exhaustive sectors is
 expected to conclude in 2030.
 
-Benchmarks for Free Allowance Allocation:
+# Benchmarks for Free Allowance Allocation:
 The allocation of free allowances has been determined through a benchmarking tactic since the
 beginning of phase 3 (2013) of the EU ETS. Benchmarks are approached at the product-level and
 are based on GHG estimates from the top performing 10% of installations for a particular
@@ -160,7 +161,8 @@ levels of production. The minimum reduction rate of 0.2% targeted for sectors wi
 complicated emission reduction avenues allows for guaranteed input. The maximum reduction
 rate of 1.6% targeted for sectors of innovation kindles a sense of urgency to lower emissions at a
 faster pace.
-Market Stability Reserve:
+
+# Market Stability Reserve:
 The MSR serves to provide price stability over installations within the ETS carbon market. The
 reserve offers flexibility for the EU ETS by rebalancing the supply and demand of carbon; it
 reduces the new supply entering the market through auctions. This allows the market to be more
@@ -224,7 +226,7 @@ distributed across varying funds (like the Innovation Fund and Modernisation Fun
 If free allocations remain after the fixed distribution across the listed funds, they are placed into
 auction.
 
-Sources:
+# Sources:
  https://www.eea.europa.eu/publications/the-eu-emissions-trading-system-2/the-eu-
 emissions-trading-system
  https://ec.europa.eu/commission/presscorner/detail/en/qanda_21_3542
