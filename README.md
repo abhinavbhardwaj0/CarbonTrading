@@ -19,6 +19,7 @@ allowances for countries and companies to emit Greenhouse Gases (GHGs). One allo
 equal to one tonne of Carbon Dioxide equivalent (CO 2 -eq). Annual reductions in the volume of
 allowances available within the ETS are meant to gradually hinder contributions in emissions
 from countries and companies.
+
   Historical data concludes with phase 3 of the ETS at the end of 2020. The timeseries for
 projected forecasts of yearly emissions embodies phase 4 of the ETS (2021 – 2030).
 Visualizations showcase emissions from EU Member States and EEA-EFTA states at the
@@ -28,6 +29,7 @@ project is to quantify the influence of EU policy instruments on emissions vis-�
 sectoral comparison of allocation rate changes. Users can determine the rate of change for total
 allocation of allowances per sector per country, generating a sense of autonomy in decision
 making (like simulating the emergence of the Market Stability Reserve, for example).
+
   A business-as-usual model follows the EU’s quest towards carbon neutrality nearing 2030
 through representation of current parameters set in place by phase 4 of the ETS. The guidelines
 for free allocation of allowances have been modified to redirect attention towards high-risk
@@ -38,6 +40,7 @@ receive a maximum annual reduction rate of 1.6%. All allocations allotted for th
 be free. Free allocation for less prone sectors will gradually phase out after 2026. The maximum
 percentage of freely allocated allowances for less prone sectors will be 30%. By the end of phase
 4 (2030), these less prone sectors will stop receiving free allocations.
+
   Our project is the creation of interactive, user-interface webtools that explore the relationship
 between allowance allocations and CO 2 emissions under the EU ETS. Data is showcased based
 on a user’s ideal set of parameterizations. Users can input any rate of change (%) in allowances
