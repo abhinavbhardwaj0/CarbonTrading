@@ -113,3 +113,11 @@ Three factors determine the level of free allocation for a given installation: b
 •	https://redshawadvisors.com/learn-carbon/eu-ets/market-stability-reserve/#:~:text=The%20Market%20Stability%20Reserve%20(MSR,green%20technology%20and%20energy%20efficiency
 
 •	https://euets.info/static/download/Description_EUTL_database.pdf
+
+## Data Download:
+
+•	https://euets.info/download/
+
+•	https://www.eea.europa.eu/data-and-maps/data/european-union-emissions-trading-scheme-17
+
+•	https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv
