@@ -8,7 +8,7 @@ _python app.py_
 
 This will output "dash is running on..." followed by a URL.
 
-Copy the URL into your web browser of preference and tool will be displayed.
+Copy the URL into your web browser of preference and the tool will be displayed.
 
 Users are given autonomy in selecting allowance decay rates (up to 30%) for a given sector within a selected country to visualize emissions.
 
