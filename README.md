@@ -4,11 +4,11 @@
 
 Within the folder, run the following command:
 
-python app.py
+_python app.py_
 
 Copy the outputted URL into web browser of preference. The tool will be displayed.
 
-Users are given autonomy in selecting allowance decay rates (upwards of 30%) for a given sector within a selected country to visualize emissions.
+Users are given autonomy in selecting allowance decay rates (up to 30%) for a given sector within a selected country to visualize emissions.
 
 ## Abstract:
 
