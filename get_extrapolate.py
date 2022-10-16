@@ -91,6 +91,7 @@ def extrapolate(country, sector, percent):
     emissions_total = []
     
     for year in range(2005, 2022):
+        alloc = 0
         s = sum(allow[allow['year'] == year]['allocatedTotal'])
         if s:
             alloc = s
